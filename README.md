@@ -1,4 +1,4 @@
-# Flask_Login_Logout_App
+# Flask_Authentication_App
 Basic app with signup, login, logout, and add-note function 
 Built with Flask and Jinja HTML.
 
